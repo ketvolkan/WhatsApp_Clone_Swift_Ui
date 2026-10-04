@@ -1,0 +1,261 @@
+{
+  "currentUser": {
+    "id": "user_me",
+    "name": "Ahsen Yılmaz",
+    "phoneNumber": "+90 555 000 1122",
+    "about": "Acil durumlar için lütfen arayın.",
+    "avatarUrl": "person.crop.circle.fill"
+  },
+  "chats": [
+    {
+      "id": "chat_1",
+      "name": "Ahmet Demir",
+      "avatarUrl": "person.circle.fill",
+      "isGroup": false,
+      "isPinned": true,
+      "unreadCount": 2,
+      "lastMessageText": "Yarın saat 14:00'te toplantı için ofiste buluşalım mı?",
+      "lastMessageTime": "18:42",
+      "lastMessageStatus": "read",
+      "lastMessageIsOutgoing": false
+    },
+    {
+      "id": "chat_2",
+      "name": "Aile Grubu 🏡",
+      "avatarUrl": "person.3.sequence.fill",
+      "isGroup": true,
+      "isPinned": true,
+      "unreadCount": 4,
+      "lastMessageText": "Anne: Akşama zeytinyağlı dolma yaptım, erken gelin!",
+      "lastMessageTime": "17:15",
+      "lastMessageStatus": "delivered",
+      "lastMessageIsOutgoing": false
+    },
+    {
+      "id": "chat_3",
+      "name": "Zeynep Kaya",
+      "avatarUrl": "person.crop.circle.fill",
+      "isGroup": false,
+      "isPinned": false,
+      "unreadCount": 0,
+      "lastMessageText": "Fotoğrafları aldım, çok teşekkür ederim! 👍",
+      "lastMessageTime": "16:03",
+      "lastMessageStatus": "read",
+      "lastMessageIsOutgoing": false
+    },
+    {
+      "id": "chat_4",
+      "name": "iOS Geliştirme Ekibi 🚀",
+      "avatarUrl": "swift",
+      "isGroup": true,
+      "isPinned": false,
+      "unreadCount": 0,
+      "lastMessageText": "Siz: Yeni sürüm kod incelemesi tamamlandı.",
+      "lastMessageTime": "14:20",
+      "lastMessageStatus": "read",
+      "lastMessageIsOutgoing": true
+    },
+    {
+      "id": "chat_5",
+      "name": "Caner Öztürk",
+      "avatarUrl": "person.circle.fill",
+      "isGroup": false,
+      "isPinned": false,
+      "unreadCount": 0,
+      "lastMessageText": "Hafta sonu halı saha maçı var, geliyor musun?",
+      "lastMessageTime": "Dün",
+      "lastMessageStatus": "read",
+      "lastMessageIsOutgoing": false
+    },
+    {
+      "id": "chat_6",
+      "name": "Elif Şahin",
+      "avatarUrl": "person.crop.circle.fill",
+      "isGroup": false,
+      "isPinned": false,
+      "unreadCount": 0,
+      "lastMessageText": "Sunum dosyasını mail adresine ilettim.",
+      "lastMessageTime": "Dün",
+      "lastMessageStatus": "read",
+      "lastMessageIsOutgoing": false
+    },
+    {
+      "id": "chat_7",
+      "name": "Burak Yılmaz",
+      "avatarUrl": "person.circle.fill",
+      "isGroup": false,
+      "isPinned": false,
+      "unreadCount": 0,
+      "lastMessageText": "Tamamdır kardeşim, görüşmek üzere.",
+      "lastMessageTime": "02.10.2026",
+      "lastMessageStatus": "read",
+      "lastMessageIsOutgoing": true
+    }
+  ],
+  "messages": {
+    "chat_1": [
+      {
+        "id": "msg_1_1",
+        "chatId": "chat_1",
+        "senderId": "user_me",
+        "senderName": "Siz",
+        "text": "Selam Ahmet, projenin son durumunu kontrol ettin mi?",
+        "time": "18:30",
+        "isOutgoing": true,
+        "status": "read"
+      },
+      {
+        "id": "msg_1_2",
+        "chatId": "chat_1",
+        "senderId": "user_ahmet",
+        "senderName": "Ahmet Demir",
+        "text": "Selam Ahsen! Evet, testleri bitirdik her şey yolunda görünüyor.",
+        "time": "18:35",
+        "isOutgoing": false,
+        "status": "read"
+      },
+      {
+        "id": "msg_1_3",
+        "chatId": "chat_1",
+        "senderId": "user_me",
+        "senderName": "Siz",
+        "text": "Harika haber, elinize sağlık.",
+        "time": "18:38",
+        "isOutgoing": true,
+        "status": "read"
+      },
+      {
+        "id": "msg_1_4",
+        "chatId": "chat_1",
+        "senderId": "user_ahmet",
+        "senderName": "Ahmet Demir",
+        "text": "Yarın saat 14:00'te toplantı için ofiste buluşalım mı?",
+        "time": "18:42",
+        "isOutgoing": false,
+        "status": "read"
+      }
+    ],
+    "chat_2": [
+      {
+        "id": "msg_2_1",
+        "chatId": "chat_2",
+        "senderId": "user_baba",
+        "senderName": "Baba",
+        "text": "Herkese iyi akşamlar, eve gelirken ekmek almayı unutmayın.",
+        "time": "16:45",
+        "isOutgoing": false,
+        "status": "read"
+      },
+      {
+        "id": "msg_2_2",
+        "chatId": "chat_2",
+        "senderId": "user_me",
+        "senderName": "Siz",
+        "text": "Ben fırının önünden geçiyorum, alırım.",
+        "time": "16:50",
+        "isOutgoing": true,
+        "status": "read"
+      },
+      {
+        "id": "msg_2_3",
+        "chatId": "chat_2",
+        "senderId": "user_anne",
+        "senderName": "Anne",
+        "text": "Akşama zeytinyağlı dolma yaptım, erken gelin!",
+        "time": "17:15",
+        "isOutgoing": false,
+        "status": "delivered"
+      }
+    ],
+    "chat_3": [
+      {
+        "id": "msg_3_1",
+        "chatId": "chat_3",
+        "senderId": "user_me",
+        "senderName": "Siz",
+        "text": "Zeynep merhaba, etkinlik fotoğraflarını Drive'a yükledim.",
+        "time": "15:50",
+        "isOutgoing": true,
+        "status": "read"
+      },
+      {
+        "id": "msg_3_2",
+        "chatId": "chat_3",
+        "senderId": "user_zeynep",
+        "senderName": "Zeynep Kaya",
+        "text": "Fotoğrafları aldım, çok teşekkür ederim! 👍",
+        "time": "16:03",
+        "isOutgoing": false,
+        "status": "read"
+      }
+    ]
+  },
+  "statuses": [
+    {
+      "id": "status_1",
+      "userName": "Ahmet Demir",
+      "timeAgo": "15 dakika önce",
+      "statusCount": 2,
+      "isViewed": false,
+      "avatarUrl": "person.circle.fill"
+    },
+    {
+      "id": "status_2",
+      "userName": "Elif Şahin",
+      "timeAgo": "42 dakika önce",
+      "statusCount": 1,
+      "isViewed": false,
+      "avatarUrl": "person.crop.circle.fill"
+    },
+    {
+      "id": "status_3",
+      "userName": "Caner Öztürk",
+      "timeAgo": "3 saat önce",
+      "statusCount": 3,
+      "isViewed": true,
+      "avatarUrl": "person.circle.fill"
+    },
+    {
+      "id": "status_4",
+      "userName": "Mehmet Çelik",
+      "timeAgo": "Bugün 09:15",
+      "statusCount": 1,
+      "isViewed": true,
+      "avatarUrl": "person.crop.circle.fill"
+    }
+  ],
+  "calls": [
+    {
+      "id": "call_1",
+      "callerName": "Ahmet Demir",
+      "callType": "missed",
+      "isVideo": false,
+      "time": "Bugün 15:30",
+      "avatarUrl": "person.circle.fill"
+    },
+    {
+      "id": "call_2",
+      "callerName": "Zeynep Kaya",
+      "callType": "outgoing",
+      "isVideo": true,
+      "time": "Bugün 12:10",
+      "avatarUrl": "person.crop.circle.fill"
+    },
+    {
+      "id": "call_3",
+      "callerName": "Elif Şahin",
+      "callType": "incoming",
+      "isVideo": false,
+      "time": "Dün 20:45",
+      "avatarUrl": "person.crop.circle.fill"
+    },
+    {
+      "id": "call_4",
+      "callerName": "Caner Öztürk",
+      "callType": "missed",
+      "isVideo": true,
+      "time": "01.10.2026",
+      "avatarUrl": "person.circle.fill"
+    }
+  ]
+}

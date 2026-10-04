@@ -1,0 +1,383 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/master.swiftdeps"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Core/Constants/AppConstants.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppConstants.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppConstants.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppConstants~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppConstants.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppConstants.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Core/Constants/AppStrings.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppStrings.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppStrings.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppStrings~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppStrings.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppStrings.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Core/Extensions/Color+Hex.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Color+Hex.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Color+Hex.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Color+Hex~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Color+Hex.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Color+Hex.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Core/Extensions/RoundedCornerShape.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/RoundedCornerShape.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/RoundedCornerShape.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/RoundedCornerShape~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/RoundedCornerShape.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/RoundedCornerShape.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Core/Extensions/View+CornerRadius.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/View+CornerRadius.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/View+CornerRadius.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/View+CornerRadius~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/View+CornerRadius.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/View+CornerRadius.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Core/Theme/AppColors.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppColors.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppColors.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppColors~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppColors.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppColors.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Core/Theme/AppIcons.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppIcons.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppIcons.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppIcons~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppIcons.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AppIcons.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Models/CallLog.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallLog.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallLog.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallLog~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallLog.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallLog.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Models/CallType.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallType.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallType.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallType.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallType.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Models/Chat.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Chat.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Chat.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Chat~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Chat.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Chat.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Models/ChatFilterType.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatFilterType.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatFilterType.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatFilterType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatFilterType.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatFilterType.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Models/Message.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Message.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Message.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Message~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Message.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/Message.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Models/MessageStatus.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MessageStatus.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MessageStatus.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MessageStatus~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MessageStatus.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MessageStatus.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Models/MockDataContainer.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MockDataContainer.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MockDataContainer.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MockDataContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MockDataContainer.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MockDataContainer.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Models/StatusItem.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusItem.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusItem.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusItem.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusItem.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Models/User.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/User.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/User.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/User~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/User.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/User.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Repositories/WhatsAppRepository.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppRepository.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppRepository.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppRepository.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppRepository.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Repositories/WhatsAppRepositoryProtocol.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppRepositoryProtocol.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppRepositoryProtocol.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppRepositoryProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppRepositoryProtocol.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppRepositoryProtocol.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Services/JsonDataLoaderProtocol.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/JsonDataLoaderProtocol.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/JsonDataLoaderProtocol.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/JsonDataLoaderProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/JsonDataLoaderProtocol.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/JsonDataLoaderProtocol.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Services/LocalJsonService.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/LocalJsonService.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/LocalJsonService.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/LocalJsonService~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/LocalJsonService.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/LocalJsonService.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/ViewModels/CallsViewModel.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallsViewModel.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallsViewModel.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallsViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallsViewModel.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallsViewModel.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/ViewModels/ChatDetailViewModel.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailViewModel.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailViewModel.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailViewModel.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailViewModel.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/ViewModels/ChatListViewModel.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatListViewModel.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatListViewModel.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatListViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatListViewModel.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatListViewModel.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/ViewModels/SettingsViewModel.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsViewModel.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsViewModel.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsViewModel.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsViewModel.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/ViewModels/StatusViewModel.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusViewModel.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusViewModel.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusViewModel.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusViewModel.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Calls/CallRowView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallRowView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallRowView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallRowView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallRowView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallRowView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Calls/CallsListView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallsListView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallsListView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallsListView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallsListView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CallsListView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Calls/CreateCallLinkRowView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CreateCallLinkRowView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CreateCallLinkRowView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CreateCallLinkRowView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CreateCallLinkRowView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CreateCallLinkRowView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Chats/ArchivedRowView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ArchivedRowView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ArchivedRowView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ArchivedRowView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ArchivedRowView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ArchivedRowView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Chats/ChatDetailNavigationBarView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailNavigationBarView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailNavigationBarView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailNavigationBarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailNavigationBarView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailNavigationBarView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Chats/ChatDetailView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatDetailView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Chats/ChatFilterBarView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatFilterBarView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatFilterBarView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatFilterBarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatFilterBarView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatFilterBarView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Chats/ChatInputBarView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatInputBarView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatInputBarView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatInputBarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatInputBarView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatInputBarView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Chats/ChatListView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatListView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatListView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatListView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatListView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatListView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Chats/ChatRowView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatRowView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatRowView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatRowView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatRowView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChatRowView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Chats/EncryptedNoticeBannerView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/EncryptedNoticeBannerView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/EncryptedNoticeBannerView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/EncryptedNoticeBannerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/EncryptedNoticeBannerView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/EncryptedNoticeBannerView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Chats/MessageBubbleView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MessageBubbleView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MessageBubbleView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MessageBubbleView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MessageBubbleView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MessageBubbleView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Communities/CommunitiesView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CommunitiesView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CommunitiesView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CommunitiesView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CommunitiesView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CommunitiesView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Communities/CommunityHeroView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CommunityHeroView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CommunityHeroView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CommunityHeroView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CommunityHeroView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/CommunityHeroView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Components/AvatarImageView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AvatarImageView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AvatarImageView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AvatarImageView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AvatarImageView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/AvatarImageView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Components/BadgeView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/BadgeView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/BadgeView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/BadgeView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/BadgeView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/BadgeView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Components/FilterChipView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/FilterChipView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/FilterChipView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/FilterChipView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/FilterChipView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/FilterChipView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Components/SearchBarView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SearchBarView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SearchBarView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SearchBarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SearchBarView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SearchBarView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Components/StatusCheckmarkView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusCheckmarkView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusCheckmarkView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusCheckmarkView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusCheckmarkView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusCheckmarkView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Main/MainTabView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MainTabView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MainTabView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MainTabView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MainTabView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MainTabView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Settings/ProfileHeaderCardView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ProfileHeaderCardView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ProfileHeaderCardView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ProfileHeaderCardView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ProfileHeaderCardView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ProfileHeaderCardView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Settings/SettingsRowView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsRowView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsRowView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsRowView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsRowView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsRowView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Settings/SettingsView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/SettingsView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Status/ChannelsSectionView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChannelsSectionView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChannelsSectionView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChannelsSectionView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChannelsSectionView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/ChannelsSectionView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Status/MyStatusRowView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MyStatusRowView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MyStatusRowView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MyStatusRowView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MyStatusRowView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/MyStatusRowView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Status/StatusListView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusListView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusListView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusListView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusListView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusListView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Views/Status/StatusRowView.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusRowView.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusRowView.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusRowView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusRowView.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/StatusRowView.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/WhatsAppCloneApp.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppCloneApp.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppCloneApp.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppCloneApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppCloneApp.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/WhatsAppCloneApp.dia"
+  },
+  "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/resource_bundle_accessor.d",
+    "object": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/.build/arm64-apple-macosx/debug/WhatsAppClone.build/resource_bundle_accessor.dia"
+  }
+}

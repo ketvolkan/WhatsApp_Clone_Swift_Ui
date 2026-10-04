@@ -1,0 +1,23 @@
+import SwiftUI
+public struct AppColors {
+    public static let primaryGreen = Color(hex: "25D366")
+    public static let darkGreen = Color(hex: "075E54")
+    public static let tealGreen = Color(hex: "128C7E")
+    public static let outgoingBubble = Color(hex: "E7FFDB")
+    public static let incomingBubble = Color(hex: "FFFFFF")
+    public static let chatBackground = Color(hex: "ECE5DD")
+    public static let readBlue = Color(hex: "34B7F1")
+    public static let unreadBadge = Color(hex: "25D366")
+    public static let statusRingUnviewed = Color(hex: "25D366")
+    public static let statusRingViewed = Color(hex: "8696A0")
+    public static let textPrimary = Color(hex: "111B21")
+    public static let textSecondary = Color(hex: "667781")
+    public static let textPlaceholder = Color(hex: "8696A0")
+    public static let barBackground = Color(hex: "F7F7F7")
+    public static let searchBarBackground = Color(hex: "E9EDEF")
+    public static let divider = Color(hex: "E9EDEF")
+    public static let listBackground = Color(hex: "F6F6F6")
+    public static let cardBackground = Color(hex: "FFFFFF")
+    public static let iconTint = Color(hex: "54656F")
+    public static let missedCallRed = Color(hex: "EA4335")
+}
