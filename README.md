@@ -1,80 +1,65 @@
-# WhatsApp Clone (SwiftUI)
+# WhatsApp iOS Clone (SwiftUI)
 
-Tamamen **SwiftUI** ve modern **MVVM + Repository** mimarisi ile geliştirilmiş, %100 Türkçe WhatsApp iOS klonu.
+Modern **SwiftUI** ve **MVVM + Repository** mimarisi kullanılarak geliştirilmiş, %100 Türkçe WhatsApp iOS klonu.
 
-## 📁 Proje Dizin Yapısı
+---
+
+## 📱 Uygulama Görselleri
+
+| Sohbetler | Sohbet Detayı | Güncellemeler | Aramalar | Ayarlar |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="Screenshots/chats.png" width="165"/> | <img src="Screenshots/chat_detail.png" width="165"/> | <img src="Screenshots/updates.png" width="165"/> | <img src="Screenshots/calls.png" width="165"/> | <img src="Screenshots/settings.png" width="165"/> |
+
+---
+
+## 📁 Klasör Yapısı
 
 ```text
 WhatsAppClone/
-├── WhatsAppCloneApp.swift                # Uygulama Başlangıç Noktası (@main)
-├── Package.swift                         # Swift Package Manager Tanımı
+├── WhatsAppCloneApp.swift                # Uygulama giriş noktası (@main)
+├── Package.swift                         # SPM yapılandırması
 ├── Resources/
-│   └── mock_data.json                    # Simüle Edilen Servis Mock Verisi
+│   └── mock_data.json                    # Simüle edilmiş JSON veri kaynağı
 ├── Core/
-│   ├── Constants/
-│   │   ├── AppConstants.swift            # Sabit Boyut, Boşluk ve Yapılandırmalar
-│   │   └── AppStrings.swift              # %100 Türkçe Metin Sabitleri
-│   ├── Theme/
-│   │   ├── AppColors.swift               # WhatsApp Renk Paleti (Hex Tabanlı)
-│   │   └── AppIcons.swift                # SF Symbols İkon Eşlemeleri
-│   └── Extensions/
-│       ├── Color+Hex.swift               # Hex Renk Desteği
-│       ├── RoundedCornerShape.swift      # Özel Köşe Yuvarlama Şekli
-│       └── View+CornerRadius.swift       # View Genişletmeleri
-├── Models/
-│   ├── User.swift                        # Kullanıcı Modeli
-│   ├── Message.swift                     # Mesaj Modeli
-│   ├── MessageStatus.swift               # Mesaj Durumu Enum (sent, delivered, read)
-│   ├── Chat.swift                        # Sohbet Özeti Modeli
-│   ├── ChatFilterType.swift              # Liste Filtresi Enum (Tümü, Okunmamış, Gruplar)
-│   ├── StatusItem.swift                  # Durum / Hikaye Modeli
-│   ├── CallLog.swift                     # Arama Kaydı Modeli
-│   ├── CallType.swift                    # Arama Türü Enum (incoming, outgoing, missed)
-│   └── MockDataContainer.swift           # Kök JSON Veri Taşıyıcısı
-├── Services/
-│   ├── JsonDataLoaderProtocol.swift      # Veri Yükleme Protokolü
-│   └── LocalJsonService.swift            # JSON Çözümleyici & Ağ Simülasyonu
-├── Repositories/
-│   ├── WhatsAppRepositoryProtocol.swift  # Repository Sözleşmesi
-│   └── WhatsAppRepository.swift          # Veri Yönetimi & Mesajlaşma Simülasyonu
-├── ViewModels/
-│   ├── ChatListViewModel.swift           # Sohbet Listesi & Filtre Mantığı
-│   ├── ChatDetailViewModel.swift         # Aktif Mesajlaşma & Gönderme Mantığı
-│   ├── StatusViewModel.swift             # Durum / Güncellemeler Mantığı
-│   ├── CallsViewModel.swift              # Arama Geçmişi Mantığı
-│   └── SettingsViewModel.swift           # Profil & Ayarlar Mantığı
-└── Views/
-    ├── Main/
-    │   └── MainTabView.swift             # 5 Temel Sekmeli WhatsApp Navigasyonu
-    ├── Chats/
-    │   ├── ChatListView.swift            # Sohbet Listesi Ekranı
-    │   ├── ChatRowView.swift             # Sohbet Satır Bileşeni
-    │   ├── ChatDetailView.swift          # Mesajlaşma Detay Ekranı
-    │   ├── MessageBubbleView.swift       # Mesaj Baloncuğu
-    │   └── ChatInputBarView.swift        # Mesaj Yazma Çubuğu
-    ├── Status/
-    │   ├── StatusListView.swift          # Güncellemeler Ekranı
-    │   └── StatusRowView.swift           # Durum Satır Bileşeni
-    ├── Calls/
-    │   ├── CallsListView.swift           # Aramalar Ekranı
-    │   └── CallRowView.swift             # Arama Satır Bileşeni
-    ├── Communities/
-    │   └── CommunitiesView.swift         # Topluluklar Ekranı
-    ├── Settings/
-    │   ├── SettingsView.swift            # Profil ve Ayarlar Ekranı
-    │   └── SettingsRowView.swift         # Ayar Menüsü Satırı
-    └── Components/
-        ├── AvatarImageView.swift         # Yeniden Kullanılabilir Avatar
-        ├── SearchBarView.swift           # Arama Çubuğu Bileşeni
-        ├── FilterChipView.swift          # Filtre Çipi Butonu
-        ├── BadgeView.swift               # Okunmamış Sayacı Rozeti
-        └── StatusCheckmarkView.swift     # Çift Mavi/Gri Tik Bileşeni
+│   ├── Constants/                        # AppConstants, AppStrings
+│   ├── Theme/                            # AppColors, AppIcons
+│   └── Extensions/                       # Color+Hex, RoundedCornerShape, View+Extensions
+├── Models/                               # User, Message, Chat, StatusItem, CallLog vb.
+├── Services/                             # JsonDataLoaderProtocol, LocalJsonService
+├── Repositories/                         # WhatsAppRepositoryProtocol, WhatsAppRepository
+├── ViewModels/                           # ChatList, ChatDetail, Status, Calls, Settings ViewModels
+├── Views/
+│   ├── Main/                            # MainTabView (5 Sekmeli TabBar)
+│   ├── Chats/                           # ChatListView, ChatDetailView, MessageBubbleView vb.
+│   ├── Status/                          # StatusListView, StatusRowView, ChannelsSectionView vb.
+│   ├── Calls/                           # CallsListView, CallRowView, CreateCallLinkRowView
+│   ├── Communities/                     # CommunitiesView, CommunityHeroView
+│   ├── Settings/                        # SettingsView, SettingsRowView, ProfileHeaderCardView
+│   └── Components/                      # Reusable bileşenler (Avatar, SearchBar, FilterChip vb.)
+└── Screenshots/                         # Ekran görüntüleri
 ```
 
-## ✨ Mimari ve Tasarım Prensipleri
+---
 
-1. **Tek Dosya - Tek Tip İlkesi**: Her dosya strictly yalnızca tek bir sınıf, yapı veya protokol içerir.
-2. **Hardcoded Değerlerin Engellenmesi**: Bütün renkler `AppColors`, sabitler `AppConstants`, ikonlar `AppIcons` ve metinler `AppStrings` içerisinden çekilir.
-3. **Repository Deseni**: UI bileşenleri verileri doğrudan bilmez; `WhatsAppRepository` üzerinden asenkron `async/await` çağrılarıyla alır.
-4. **Mock Servis Katmanı**: `LocalJsonService`, `mock_data.json` dosyasını sanki uzak bir sunucudan çekiyormuş gibi 200 ms ağ gecikmesi simüle ederek yükler.
-5. **Dinamik Mesaj Gönderimi**: Sohbet detay ekranında yeni mesaj yazıp gönderdiğinizde repository katmanı mesajı kaydeder ve ekran otomatik olarak en son mesaja kaydırılır.
+## 🛠 Mimari & Özellikler
+
+* **MVVM + Repository**: UI, iş mantığı ve veri katmanı tamamen birbirinden izole edilmiştir.
+* **Tek Dosya - Tek Tip**: Her Swift dosyasında yalnızca tek bir `class`, `struct`, `enum` veya `protocol` bulunur.
+* **Sıfır Hardcode**: Renkler (`AppColors`), metinler (`AppStrings`), ikonlar (`AppIcons`) ve boyutlar (`AppConstants`) merkezi dosyalardan yönetilir.
+* **Mock Servis Katmanı**: `LocalJsonService`, `mock_data.json` dosyasını asenkron olarak 200 ms ağ gecikmesi simülasyonuyla yükler.
+* **Akıllı Mesaj Balonları**: Mesaj kartları ekranı kaplamaz; içeriğin uzunluğu kadar genişler.
+* **Doğal Kaydırma**: Sohbet arama ve filtre çipleri liste ile birlikte yukarı kayarak kaybolur.
+
+---
+
+## 🚀 Projeyi Çalıştırma
+
+Projeyi doğrudan Xcode ile açıp istediğiniz simülatörde çalıştırabilirsiniz:
+
+```bash
+open -a Xcode Package.swift
+```
+veya
+```bash
+swift run WhatsAppClone
+```
