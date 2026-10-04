@@ -19,7 +19,7 @@ public final class LocalJsonService: JsonDataLoaderProtocol {
             let directPaths = [
                 "Resources/\(filename).\(withExtension)",
                 "./Resources/\(filename).\(withExtension)",
-                "/Users/ketvolkan/.gemini/antigravity/scratch/WhatsAppClone/Resources/\(filename).\(withExtension)"
+                "/Users/ketvolkan/Project/WhatsAppClone/Resources/\(filename).\(withExtension)"
             ]
             for path in directPaths {
                 let fileUrl = URL(fileURLWithPath: path)
