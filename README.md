@@ -1,6 +1,6 @@
 # WhatsApp iOS Clone (SwiftUI)
 
-Modern **SwiftUI** ve **MVVM + Repository** mimarisi kullanılarak geliştirilmiş, %100 Türkçe WhatsApp iOS klonu.
+Modern **SwiftUI** ve **MVVM + Repository** mimarisi kullanılarak geliştirilmiş, WhatsApp UI iOS klonu.
 
 ---
 
@@ -44,11 +44,7 @@ WhatsAppClone/
 ## 🛠 Mimari & Özellikler
 
 * **MVVM + Repository**: UI, iş mantığı ve veri katmanı tamamen birbirinden izole edilmiştir.
-* **Tek Dosya - Tek Tip**: Her Swift dosyasında yalnızca tek bir `class`, `struct`, `enum` veya `protocol` bulunur.
-* **Sıfır Hardcode**: Renkler (`AppColors`), metinler (`AppStrings`), ikonlar (`AppIcons`) ve boyutlar (`AppConstants`) merkezi dosyalardan yönetilir.
 * **Mock Servis Katmanı**: `LocalJsonService`, `mock_data.json` dosyasını asenkron olarak 200 ms ağ gecikmesi simülasyonuyla yükler.
-* **Akıllı Mesaj Balonları**: Mesaj kartları ekranı kaplamaz; içeriğin uzunluğu kadar genişler.
-* **Doğal Kaydırma**: Sohbet arama ve filtre çipleri liste ile birlikte yukarı kayarak kaybolur.
 
 ---
 
